@@ -1,5 +1,5 @@
 # L4D2 Split Pack Attack Warn Plugin(linux only)
-> 本告警已经集成了**葈㤀(qq1047504736)**的修复, 感谢大佬无私提供思路与接口. 
+> 本插件已经集成了***葈㤀(qq1047504736)***的修复, 感谢大佬无私提供思路与接口. 
 * * * 
 基于[SMTP Mail Plugin](https://github.com/Miuwiki/SMTP-mail-plugin)提供的api 制作的告警插件 
 警示服务器正在遭受小包攻击.
